@@ -1,6 +1,6 @@
 # Welcome
 - 👋 Hi, I’m Cris
-- 👀 I’m interested in cybersecurity, hip hop, old school games,
+- 👀 I’m interested in cybersecurity, NBA, hip hop, and old school games
 ![Hadouken](https://media1.tenor.com/m/hQA6jk2FxwQAAAAC/ryu-hadouken.gif)
 - 🌱 I’m currently learning ... html , css, javascript, python
 - Currently enrolled at in Code Crew in Memphis, TN
